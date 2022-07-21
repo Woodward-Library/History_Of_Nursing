@@ -1,13 +1,13 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
-	"@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest6.json",
-	"label": "Rosetti Studios - Stanley Park Collection",
+	"@id": "https://raw.githubusercontent.com/Woodward-Library/History_Of_Nursing/main/src/mixed_manifest6.json",
+	"label": "Infant Feeders Collection",
 	"viewingDirection": "left-to-right",
 	"viewingHint": "paged",
 	"metadata": [],
 	"thumbnail": "https://iiif.library.ubc.ca/image/cdm.xabpost.1-0168453.0000/full/80,100/0/default.jpg",
 	"attribution": "Images provided for research and reference use only. Permission to publish, copy, or otherwise use these images must be obtained from the Digitization Centre: http://digitize.library.ubc.ca/",
-  "description": "Rosetti Studios - Stanley Park Collection",
+  "description": "These infant feeding devices are held in the collection of the Memorial Room of the Woodward Biomedical Library at the University of British Columbia",
 	"@type": "sc:Manifest",
 
 	"items": [
@@ -16,11 +16,11 @@
 			"type": "Canvas",
 			"width" : 5119,
       "height" : 6318,
-			"label": "No. 10 - Scatter of Fairy Lights Mid Ferns and Vine Maple, Stanley Park, Vancouver, B.C.",
+			"label": "Feeding bottle from around 1930",
 			"metadata": [
 			 {
 				 "label": "Title",
-				 "value": "No. 10 - Scatter of Fairy Lights Mid Ferns and Vine Maple, Stanley Park, Vancouver, B.C."
+				 "value": "Feeding bottle from around 1930"
 			 },
 			 {
 				 "label": "Creator",
@@ -28,15 +28,15 @@
 			 },
 			 {
 				 "label": "Date Created",
-				 "value": "1912"
+				 "value": "1930"
 			 },
 			 {
 				 "label": "Digital identifier",
-				 "value": "BC_1903_31_10"
+				 "value": "10.14288/1.0132839"
 			 },
 			 {
 				 "label": "View the full Item page",
-				 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/5c892792-7397-4a85-bb7d-fa7c138facb5'>Full Item Page</a>"
+				 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132839?o=0'>Full Item Page</a>"
 			 }
 		 ],
 		 "partOf": [
@@ -63,14 +63,14 @@
 							"motivation": "painting",
 
 							"body": {
-								"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTAyOTE3NTEzNzIwNzYyMjU4OTczNDkwMDY1NTU4NzQ4NzczNzQ5IiwibCI6NTE3NTA0NSwibSI6ImltYWdlXC9qcGVnIn0.M5rW1XtXzI7AEkS_EBuGebyKp5Pinp6yS0YMc2CPHkw.jpeg/full/max/0/default.jpeg",
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132839/full/full/0/default.jpg",
 								"type": "Image",
 								"format": "image/jpeg",
 								"width" : 5119,
 				        "height" : 6318,
 								"service": [
 									{
-										"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTAyOTE3NTEzNzIwNzYyMjU4OTczNDkwMDY1NTU4NzQ4NzczNzQ5IiwibCI6NTE3NTA0NSwibSI6ImltYWdlXC9qcGVnIn0.M5rW1XtXzI7AEkS_EBuGebyKp5Pinp6yS0YMc2CPHkw.jpeg",
+										"id": "",
 										"profile": "level1",
 										"type": "ImageService3"
 									}
