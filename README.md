@@ -1,2 +1,1 @@
-# Mirador Mixed Collection Test
-A manifest example referencing items from multiple collections
+# History of Nursing Mirador and Manifest files
