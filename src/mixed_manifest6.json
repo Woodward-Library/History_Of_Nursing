@@ -70,7 +70,7 @@
 				        "height" : 6318,
 								"service": [
 									{
-										"id": "",
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132839",
 										"profile": "level1",
 										"type": "ImageService3"
 									}
