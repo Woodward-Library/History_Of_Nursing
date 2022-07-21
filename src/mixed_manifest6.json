@@ -23,10 +23,6 @@
 				 "value": "Feeding bottle from around 1930"
 			 },
 			 {
-				 "label": "Creator",
-				 "value": "Rosetti Photographic Studios"
-			 },
-			 {
 				 "label": "Date Created",
 				 "value": "1930"
 			 },
@@ -41,11 +37,11 @@
 		 ],
 		 "partOf": [
 	 		{
-	 		"id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_MixedCollection/main/src/mixed_manifest_Collection.json",
+	 		"id": "https://raw.githubusercontent.com/Woodward-Library/History_Of_Nursing/main/src/mixed_manifest6.json",
 	 		"type": "Collection",
 	 		"label": {
 	 			"en": [
-	 			"Rosetti Studios - Stanley Park Collection"
+	 			"Infant Feeders Collection"
 	 			]
 	 		}
 	 	 }
@@ -95,27 +91,24 @@
        "type": "Canvas",
 			 "width" : 6342,
 			 "height" : 5131,
-			 "label": "No. 50 - Early Spring Sunshine, Driveway, Stanley Park, Vancouver, B.C.",
+			 "label": "Feeding bottle: A ceramic Staffordshire pottery feeding bottle",
 			 "metadata": [
 	 		 {
 	 			 "label": "Title",
-	 			 "value": "No. 50 - Early Spring Sunshine, Driveway, Stanley Park, Vancouver, B.C."
-	 		 },
-	 		 {
-	 			 "label": "Creator",
-	 			 "value": "Rosetti Photographic Studios"
+	 			 "value": "Feeding bottle: A ceramic Staffordshire pottery feeding bottle"
 	 		 },
 	 		 {
 	 			 "label": "Date Created",
-	 			 "value": "1912"
+	 			 "value": "unknown"
 	 		 },
 	 		 {
 	 			 "label": "Digital identifier",
-	 			 "value": "BC_1903_31_50"
+	 			 "value": "10.14288/1.0228079
+"
 	 		 },
 	 		 {
 	 			 "label": "View the full Item page",
-	 			 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/27323904-1071-42ee-b332-3ead8f716a1a'>Full Item Page</a>"
+	 			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0228079?o=1'>Full Item Page</a>"
 	 		 }
 	 	  ],
        "items": [
@@ -129,14 +122,14 @@
                "type": "Annotation",
                "motivation": "painting",
                "body": {
-                 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg/full/max/0/default.jpeg",
+                 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228079/full/full/0/default.jpg",
                  "type": "Image",
                  "format": "image/jpeg",
 								 "width" : 6342,
 				         "height" : 5131,
                  "service": [
                    {
-                     "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMjAwMzY4MzI0NDkxMDQ4MjcwMDk4NTU4MjYzMzU5MTg3MDE4OSIsImwiOjczODkxMDAsIm0iOiJpbWFnZVwvanBlZyJ9.T68yJi2U4ckjiXpmZPVcCbHoPQceXKnr4uWGg5fQbWU.jpeg",
+                     "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228079",
                      "profile": "level1",
                      "type": "ImageService3"
                    }
