@@ -1243,8 +1243,567 @@
 
 
 			]
-		}
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-22",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Glass feeder from late 19th century",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Glass feeder from late 19th century"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "between 1850 and 1899"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0228076"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0228076?o=2'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228076/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228076",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-22"
+						}
+					]
+				}
 
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-23",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Drinking cup from late 19th century",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Drinking cup from late 19th century"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "1800"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0132843"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132843?o=4'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132843/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132843",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-23"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-24",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Infant feeding pot from around 300 B.C.",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Infant feeding pot from around 300 B.C."
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "300 BC?"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0228078"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0228078?o=5'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228078/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228078",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-24"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-25",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Pewter pap boat",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Pewter pap boat"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "not before 1741"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0228071"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0228071?o=7'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228071/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228071",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-25"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-26",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Nursing bottle",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Nursing bottle"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "unknown"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0132848"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132848?o=8'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132848/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132848",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-26"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-27",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Glass feeding bottle",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Glass feeding bottle"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "unknown"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0228069"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0228069?o=9'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228069/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228069",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-27"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-28",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Glass feeding bottle",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Glass feeding bottle"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "unknown"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0228070"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0228070?o=10'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228070/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228070",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-28"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-29",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Pap feeder and invoice",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Pap feeder and invoice"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "1830?"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0132864"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132864?o=11'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132864/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132864",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-29"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-30",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Pap boat with mark detail",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Pap boat with mark detail"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "1800"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0132830"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132830?o=12'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132830/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132830",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-30"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-31",
+			"type": "Canvas",
+			"width" : 5102,
+		 "height" : 6300,
+		 "label": "Glass feeding bottle with advertisement",
+		 "metadata": [
+		 {
+			 "label": "Title",
+			 "value": "Glass feeding bottle with advertisement"
+		 },
+		 {
+			 "label": "Date Created",
+			 "value": "unknown"
+		 },
+		 {
+			 "label": "Digital identifier",
+			 "value": "10.14288/1.0380717"
+		 },
+		 {
+			 "label": "View the full Item page",
+			 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0380717?o=13'>Full Item Page</a>"
+		 }
+		],
+			"items": [
+				{
+					"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1",
+					"type": "AnnotationPage",
+				 "label": "this is the label",
+					"items": [
+						{
+							"id": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-1/annopage-1/anno-1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0380717/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"width" : 5058,
+								"height" : 6295,
+								"service": [
+									{
+										"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0380717",
+										"profile": "level1",
+										"type": "ImageService3"
+									}
+								]
+							},
+							"target": "https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/canvas-31"
+						}
+					]
+				}
+
+
+			]
+		}
 
 
    ]
