@@ -148,31 +148,25 @@
       "type": "Canvas",
 			"height": 7823,
  			"width": 5161,
-			"label": "No. 6 - The Shimmering Lights of Summery Woods, Stanley Park, Vancouver, B.C.",
+			"label": "Feeding bottle: A ceramic feeding bottle",
 		  "metadata": [
 		  {
 		 	 "label": "Title",
-		 	 "value": "No. 6 - The Shimmering Lights of Summery Woods, Stanley Park, Vancouver, B.C."
-		  },
-		  {
-		 	 "label": "Creator",
-		 	 "value": "Rosetti Photographic Studios"
+		 	 "value": "Feeding bottle: A ceramic feeding bottle"
 		  },
 		  {
 		 	 "label": "Date Created",
-		 	 "value": "1912"
+		 	 "value": "between 1750 and 1850"
 		  },
 		  {
 		 	 "label": "Digital identifier",
-		 	 "value": "BC_1903_31_06"
+		 	 "value": "10.14288/1.0132828"
 		  },
 		  {
 		 	 "label": "View the full Item page",
-		 	 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/ac5bef5d-3edd-4943-b923-01298e1de6f8'>Full Item Page</a>"
+		 	 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132828?o=2'>Full Item Page</a>"
 		  }
 		 ],
-
-
 
        "items": [
          {
@@ -185,14 +179,14 @@
                "type": "Annotation",
                "motivation": "painting",
                "body": {
-                 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiOTQxMjc2NDIwNDgxNjEwMjUzNzI1ODk1MDkzMTQ5ODE4NzgwMzQiLCJsIjo0OTI4MDgyLCJtIjoiaW1hZ2VcL2pwZWcifQ.-s7ZI2ahiZbyhsZXT6QvS2A4xxofyQp1h8B0hlLv1vo.jpeg/full/max/0/default.jpeg",
+                 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132828/full/full/0/default.jpg",
                  "type": "Image",
                  "format": "image/jpeg",
 								 "width" : 5111,
 								 "height" : 6307,
                  "service": [
                    {
-                     "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiOTQxMjc2NDIwNDgxNjEwMjUzNzI1ODk1MDkzMTQ5ODE4NzgwMzQiLCJsIjo0OTI4MDgyLCJtIjoiaW1hZ2VcL2pwZWcifQ.-s7ZI2ahiZbyhsZXT6QvS2A4xxofyQp1h8B0hlLv1vo.jpeg",
+                     "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132828",
 										 "@context": "http://iiif.io/api/image/2/context.json",
 										 "profile": [
 											 "http://iiif.io/api/image/2/level2.json",
@@ -245,27 +239,23 @@
 			 "type": "Canvas",
 			"height": 4839,
 			"width": 3053,
-			"label": "No. 51 - Among the 'Seven Sisters' Big Trees, Stanley Park, Vancouver, B.C.",
+			"label": "Feeding Bottle: A pewter feeding bottle.",
 			"metadata": [
 			{
 				"label": "Title",
-				"value": "No. 51 - Among the 'Seven Sisters' Big Trees, Stanley Park, Vancouver, B.C."
-			},
-			{
-				"label": "Creator",
-				"value": "Rosetti Photographic Studios"
+				"value": "Feeding Bottle: A pewter feeding bottle."
 			},
 			{
 				"label": "Date Created",
-				"value": "1912"
+				"value": "between 1600 and 1800?"
 			},
 			{
 				"label": "Digital identifier",
-				"value": "BC_1903_31_51"
+				"value": "10.14288/1.0132842"
 			},
 			{
 				"label": "View the full Item page",
-				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/64f5f732-1699-4fed-b015-315f378c08e0'>Full Item Page</a>"
+				"value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132842?o=3'>Full Item Page</a>"
 			}
 		 ],
 			 "items": [
@@ -279,14 +269,14 @@
 							 "type": "Annotation",
 							 "motivation": "painting",
 							 "body": {
-								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzc4ODMyMjUzMTA1NzE5ODMyMDA2NDI0NDc3MzE2NDEyOTAyODMiLCJsIjo1ODgxOTk0LCJtIjoiaW1hZ2VcL2pwZWcifQ.1m2_EINwrRb3QAXlLiTXUVriZZUjiDV5coU46R2R1f4.jpeg/full/max/0/default.jpeg",
+								 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132842/full/full/0/default.jpg",
 								 "type": "Image",
 								 "format": "image/jpeg",
 								 "width" : 5107,
 							   "height" : 6284,
 								 "service": [
 									 {
-										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNzc4ODMyMjUzMTA1NzE5ODMyMDA2NDI0NDc3MzE2NDEyOTAyODMiLCJsIjo1ODgxOTk0LCJtIjoiaW1hZ2VcL2pwZWcifQ.1m2_EINwrRb3QAXlLiTXUVriZZUjiDV5coU46R2R1f4.jpeg",
+										 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132842",
 										 "profile": "level1",
 										 "type": "ImageService3"
 									 }
@@ -306,27 +296,23 @@
 			 "type": "Canvas",
 			"height": 4839,
 			"width": 3053,
-			"label": "No. 5 - Lake Trail, Stanley Park, Vancouver, B.C.",
+			"label": "Pap boat from 18th century]",
 			"metadata": [
 			{
 				"label": "Title",
-				"value": "No. 5 - Lake Trail, Stanley Park, Vancouver, B.C."
-			},
-			{
-				"label": "Creator",
-				"value": "Rosetti Photographic Studios"
+				"value": "Pap boat from 18th century]"
 			},
 			{
 				"label": "Date Created",
-				"value": "1912"
+				"value": "between 1700 and 1799"
 			},
 			{
 				"label": "Digital identifier",
-				"value": "BC_1903_31_05"
+				"value": "10.14288/1.0228072"
 			},
 			{
 				"label": "View the full Item page",
-				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/43484a22-79f9-4eeb-845e-477413537ab7'>Full Item Page</a>"
+				"value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0228072?o=4'>Full Item Page</a>"
 			}
 		 ],
 			 "items": [
@@ -340,14 +326,14 @@
 							 "type": "Annotation",
 							 "motivation": "painting",
 							 "body": {
-								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTM4OTYwNjYyODE2NzAyMjgyNjEyMzk4MjczNDU3MTExMDEyNzc1IiwibCI6NTQyNDcwMCwibSI6ImltYWdlXC9qcGVnIn0.tcJn5SVZwUzwkRSamXF3rKk5SKlolBrBIY_Vsd9yoH0.jpeg/full/max/0/default.jpeg",
+								 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228072/full/full/0/default.jpg",
 								 "type": "Image",
 								 "format": "image/jpeg",
 								 "width" : 6324,
 							   "height" : 5107,
 								 "service": [
 									 {
-										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTM4OTYwNjYyODE2NzAyMjgyNjEyMzk4MjczNDU3MTExMDEyNzc1IiwibCI6NTQyNDcwMCwibSI6ImltYWdlXC9qcGVnIn0.tcJn5SVZwUzwkRSamXF3rKk5SKlolBrBIY_Vsd9yoH0.jpeg",
+										 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0228072",
 										 "profile": "level1",
 										 "type": "ImageService3"
 									 }
@@ -367,27 +353,23 @@
 			 "type": "Canvas",
 			"height": 4839,
 			"width": 3053,
-			"label": "No. 25 - Lighthouse at First Narrows from East of Prospect Point, Stanley Park, Vancouver, B.C.",
+			"label": "Early American feeding pot",
 			"metadata": [
 			{
 				"label": "Title",
-				"value": "No. 25 - Lighthouse at First Narrows from East of Prospect Point, Stanley Park, Vancouver, B.C."
-			},
-			{
-				"label": "Creator",
-				"value": "Rosetti Photographic Studios"
+				"value": "Early American feeding pot"
 			},
 			{
 				"label": "Date Created",
-				"value": "1912"
+				"value": "unknown"
 			},
 			{
 				"label": "Digital identifier",
-				"value": "BC_1903_31_25"
+				"value": "10.14288/1.0132844"
 			},
 			{
 				"label": "View the full Item page",
-				"value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/84a265d7-2ad8-4438-b29c-502f022753bf'>Full Item Page</a>"
+				"value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132844?o=5'>Full Item Page</a>"
 			}
 		 ],
 			 "items": [
@@ -401,14 +383,14 @@
 							 "type": "Annotation",
 							 "motivation": "painting",
 							 "body": {
-								 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTEwMjkwNzQ5ODYyMDA1MDI0NjM5MzIyODM5NzcwMTM3ODY3MjM5IiwibCI6NDQxODg4NiwibSI6ImltYWdlXC9qcGVnIn0.5nMSlTQZUZdLDsewogEQHlkUzEf0IkXE9TS4Pt6N6r0.jpeg/full/max/0/default.jpeg",
+								 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132844/full/full/0/default.jpg",
 								 "type": "Image",
 								 "format": "image/jpeg",
 								 "width" : 5058,
 						     "height" : 6295,
 								 "service": [
 									 {
-										 "id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiMTEwMjkwNzQ5ODYyMDA1MDI0NjM5MzIyODM5NzcwMTM3ODY3MjM5IiwibCI6NDQxODg4NiwibSI6ImltYWdlXC9qcGVnIn0.5nMSlTQZUZdLDsewogEQHlkUzEf0IkXE9TS4Pt6N6r0.jpeg",
+										 "id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132844",
 										 "profile": "level1",
 										 "type": "ImageService3"
 									 }
@@ -427,27 +409,23 @@
 		 	"type": "Canvas",
 		  "height": 4839,
 		  "width": 3053,
-		  "label": "No. 64 - Across English Bay to Point Atkinson , Stanley Park, Vancouver, B.C.",
+		  "label": "Early American pap warmer",
 		  "metadata": [
 		  {
 		 	 "label": "Title",
-		 	 "value": "No. 64 - Across English Bay to Point Atkinson , Stanley Park, Vancouver, B.C."
-		  },
-		  {
-		 	 "label": "Creator",
-		 	 "value": "Rosetti Photographic Studios"
+		 	 "value": "Early American pap warmer"
 		  },
 		  {
 		 	 "label": "Date Created",
-		 	 "value": "1912"
+		 	 "value": "unknown"
 		  },
 		  {
 		 	 "label": "Digital identifier",
-		 	 "value": "BC_1903_31_64"
+		 	 "value": "10.14288/1.0132833"
 		  },
 		  {
 		 	 "label": "View the full Item page",
-		 	 "value": " <a href='https://ubc-dams.atmire.us/entities/compounditem/ebb52e77-3c33-4485-bc37-6843bdd0a1c3'>Full Item Page</a>"
+		 	 "value": " <a href='https://open.library.ubc.ca/collections/historyofnursinginpacificcanada/feeders/items/1.0132833?o=6'>Full Item Page</a>"
 		  }
 		 ],
 		 	"items": [
@@ -461,14 +439,14 @@
 		 					"type": "Annotation",
 		 					"motivation": "painting",
 		 					"body": {
-		 						"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNTU3NTk3MDg3MTAzMjEyOTM1Njk3MTg3NjUzNTMzNTY0MjcwNjQiLCJsIjozNjkzMjY3LCJtIjoiaW1hZ2VcL2pwZWcifQ.784wqo_6viBjFMt_I0QxcwgCf30LCupfNjK96Z-rVEU.jpeg/full/max/0/default.jpeg",
+		 						"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132833/full/full/0/default.jpg",
 		 						"type": "Image",
 		 						"format": "image/jpeg",
 		 						"width" : 5058,
 		 						"height" : 6295,
 		 						"service": [
 		 							{
-		 								"id": "https://ubc-dams-iiif.atmire.us/iiif/2/eyJhbGciOiJIUzI1NiJ9.eyJzIjoxLCJpIjoiNTU3NTk3MDg3MTAzMjEyOTM1Njk3MTg3NjUzNTMzNTY0MjcwNjQiLCJsIjozNjkzMjY3LCJtIjoiaW1hZ2VcL2pwZWcifQ.784wqo_6viBjFMt_I0QxcwgCf30LCupfNjK96Z-rVEU.jpeg",
+		 								"id": "https://iiif.library.ubc.ca/image/cdm.feeders.1-0132833",
 		 								"profile": "level1",
 		 								"type": "ImageService3"
 		 							}
